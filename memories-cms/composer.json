@@ -1,0 +1,13 @@
+{
+  "name": "ourmemories/memories-cms",
+  "description": "Starter scaffold for Memories CMS",
+  "type": "project",
+  "require": {
+    "php": "^8.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
